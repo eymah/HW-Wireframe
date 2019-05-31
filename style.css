@@ -29,7 +29,7 @@ header {
 .left {
     padding: 20px;
     margin-bottom: 20px;
-    width: 495px;
+    width: 52%;
     height: 320px;
     clear: both;
     background: #ebebeb;
@@ -37,11 +37,12 @@ header {
 }
 
 article {
-    float: left;
-    width: 445.5px;
+    
+    width: 100%;
     height: 200px;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
     margin-left: 5px;
+    margin-right: 5px;
     margin-top: 50px;
     color: #ebebeb;
     background: #777;
@@ -78,7 +79,7 @@ article {
 
 .right {
     float: right;
-    width: 400px;
+    width: 45%;
     height: 320px;
     clear: both;
     background: #ebebeb;
